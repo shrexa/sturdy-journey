@@ -68,3 +68,39 @@ This section has moved here: [https://vitejs.dev/guide/build.html](https://vitej
 ### Troubleshooting
 
 This section has moved here: [https://vitejs.dev/guide/troubleshooting.html](https://vitejs.dev/guide/troubleshooting.html)
+
+
+
+Coding Challenge
+
+Questions for clarifications are encouraged.
+
+		Create a branch in git. Commit work to this branch as you work.
+
+		
+
+		Bug 1: Delete button deletes wrong items. 
+
+		Expected Behavior: It should delete the task item that the button was clicked on.
+
+		
+
+		Bug 2: The input field for adding a task is not being cleared after submitting a task.
+
+		Expected Behavior: In-out should clear out after adding a task
+
+		
+
+		To-do: Please complete calling the mockApiCall to add initial data.
+
+		Expected behavior: 
+
+To-do list should be populated from the API call when the page loads.
+
+		
+
+		Feature 1: Add a field for a date you want to complete the task by.
+
+		
+
+		Feature 2: Add a text search functionality to the list.
